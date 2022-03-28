@@ -1,29 +1,9 @@
-# Nuxt 3 Minimal Starter
+# Ed Adeagbo
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+## CPNT 262 Achievement 7
 
-## Setup
+### Challenges 
 
-Make sure to install the dependencies
+I still dont understand v-for and slots and props completely, as in I can somewhat understand what they do and what they're used for but it's hard for me to actually implement it into my work without getting confused.
 
-```bash
-yarn install
-```
-
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+- I think it's because I'm so used to using html and the normal syntax that I don't get why it's being used
